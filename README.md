@@ -1,6 +1,3 @@
-GitHub pe "Add a README" button dikh raha hai
-Click karo aur project ke baare mein thoda likho:
-
 # Calculator Project
 Flask aur JavaScript se bana hua calculator.
 
